@@ -1,0 +1,8 @@
+# Compiled Python (how does this even get here?)
+*.pyc
+
+# Configs with private info
+*.cfg
+
+# Old versions
+*~
